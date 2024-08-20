@@ -27,7 +27,6 @@ chroma_client = chromadb.HttpClient(
     settings=CHROMA_SETTINGS
 )
 
-
 def extract_text_from_pdf(file_path: str) -> str: 
     """Extract all text from a PDF file using PyPDF2."""
     try:
@@ -44,9 +43,15 @@ def intelligent_chunking(file_path: str) -> List[Document]:
     """Extract, split, and convert PDF text into chunks with embeddings."""
     try:
         print(colored(f"\nProcessing content from file: {file_path}\n", "green"))
+        
+        # Step 2
+        input(colored("Step 2: \n We are about to extract all the text from the PDF file using PyPDF2. \n This will allow us to process the content for further analysis. \n Press Enter to continue...", "yellow"))
 
         # Extract text from the PDF
         content = extract_text_from_pdf(file_path)
+
+        # Step 3
+        input(colored("Step 3: \n The text has been extracted. \n Now, we will split this text into smaller, manageable chunks. \n This is essential because it allows us to process the document in segments, \n making it easier to handle large texts and more effective for embedding generation. \n Press Enter to continue...", "yellow"))
 
         # Split the text into manageable chunks
         splitter = RecursiveCharacterTextSplitter(
@@ -55,6 +60,12 @@ def intelligent_chunking(file_path: str) -> List[Document]:
             separators=["\n\n", "\n", " ", ". ", ""]
         )
         chunks = splitter.split_text(content)
+
+        print(colored("Text has been split into chunks.", "green"))
+
+
+        # Step 4
+        input(colored("Step 4: \n We will now create Document objects from these chunks, \n which will include metadata about the source file. \n This step prepares the chunks for embedding generation and indexing. \n Press Enter to continue...", "yellow"))
 
         # Create documents from the chunks
         documents = [Document(page_content=chunk, metadata={"source": file_path}) for chunk in chunks]
@@ -92,18 +103,16 @@ def index_documents(documents: List[Document], collection_name: str, delete: Opt
     try:
         print(colored(f"\nStarting indexing with Chroma DB for {len(documents)} documents\n", "green"))
 
-        # Check if the collection already exists and handle accordingly
-        existing_collections = chroma_client.list_collections()
-        if collection_name in [col.name for col in existing_collections]:
-            if delete:
-                print(colored(f"Collection '{collection_name}' exists. Deleting it.", "red"))
-                chroma_client.delete_collection(name=collection_name)
-            else:
-                print(colored(f"Collection '{collection_name}' exists but not deleting.", "red"))
-        
+        # Step 5 is skipped in this version
+        input(colored("Step 5: \n We access the ChromaDB collection where we want to store the embeddings. \n Press Enter to continue...", "yellow"))
+
+
         # Access or create the collection
         print(colored(f"Accessing Chroma Collection '{collection_name}'", "green"))
         collection = chroma_client.get_or_create_collection(name=collection_name)
+
+        # Step 6
+        input(colored("Step 6: \n We will now generate embeddings for each chunk of text and index them in the Chroma DB collection. \n These embeddings represent the text in a vector format,  \n which is essential for similarity search and retrieval later. \n Press Enter to continue...", "yellow"))
 
         # Embed and store each document (chunk) in the collection
         for i, doc in enumerate(documents):
@@ -131,12 +140,18 @@ def retrieve_text(query: str, collection_name: str, top_percent: float = 60) -> 
     try:
         print(colored(f"\nStarting retrieval with Chroma DB for query: '{query}'\n", "green"))
 
+        # Step 7
+        input(colored("Step 7: \n We will now access the collection in Chroma DB and generate an embedding for the query text. \n This embedding will be compared against the embeddings of the stored documents to find the most similar ones. \n Press Enter to continue...", "yellow"))
+
         # Access the collection
         collection = chroma_client.get_collection(name=collection_name)
 
         # Generate the query embedding and perform similarity search
         query_embedding = generate_embedding(query)
         results = collection.query(query_embeddings=[query_embedding], n_results=10)
+
+        # Step 8
+        input(colored("Step 8: \n The similarity search is complete. \n Now, we will retrieve the top-ranked documents based on how closely they match the query embedding. \n These documents will be ranked by relevance, allowing us to see the most pertinent results. \n Press Enter to continue...", "yellow"))
 
         # Map results to a readable format
         passages = []
@@ -155,7 +170,6 @@ def retrieve_text(query: str, collection_name: str, top_percent: float = 60) -> 
         num_results = max(1, int(len(sorted_results) * (top_percent / 100)))
         final_results = sorted_results[:num_results]
 
-        # print(colored(f"Returned top {top_percent}% of results ({len(final_results)} documents)\n", "green"))
         return final_results
 
     except Exception as e:
@@ -167,17 +181,25 @@ if __name__ == "__main__":
     # Example PDF file and collection name
     file_path = "../docs/world-war-2.pdf"
     collection_name = "test_documents_collection"
-    query = "what happened on 5 June 1944?"
-    top_percent = 60;
 
-    # Step 1: Chunk the document and generate embeddings
+    # Step 1
+    query = input(colored("Step 1: \n Please enter the search query you want to use for retrieving information from the documents. \n This query will be used to find the most relevant chunks of text in our indexed collection. \n Enter your query and press Enter to continue: \n ", "yellow"))
+
+    top_percent = 60
+
+    # Step 2: Chunk the document and generate embeddings
     documents = intelligent_chunking(file_path)
     
-    # Step 2: Index the documents in the collection
+    # Step 3
+    input(colored("Starting Indexing Phase: \n Chunks have been created. \n  Now, we'll index them in the Chroma DB.  \n Press Enter to continue...", "yellow"))
+
+    # Step 4: Index the documents in the collection
     index_documents(documents, collection_name, delete=False)
     
-    # Step 3: Retrieve and rank the documents based on the query
+    # Step 6
+    input(colored("End Indexing Phase:  \n Indexing is complete.  \n Next, we'll retrieve documents based on the query you entered. \n Press Enter to continue...", "yellow"))
+
+    # Step 7: Retrieve and rank the documents based on the query
     final_results = retrieve_text(query, collection_name, top_percent)
 
     print(colored(f"Returned top {top_percent}% of results ({len(final_results)} documents)\n", "green"))
-
