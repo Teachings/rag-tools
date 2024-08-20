@@ -1,0 +1,51 @@
+# Ignore virtual environment
+venv/
+
+# Ignore pyc files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore IDE configuration files
+.idea/
+*.iml
+
+# Ignore temporary files and directories
+*.tmp
+*.temp
+*~
+
+# Ignore compiled Python files
+*.so
+*.dll
+*.dylib
+
+# Ignore local .env file
+.env
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore log files and debugging files
+*.log
+*.debug
+
+# Ignore emacs backups
+*#
+.*.swp
+.*.swo
+
+# Ignore vim swap files
+*.swap
+
+# Ignore configuration files for editors
+.config/
+
+# Ignore any temp file directories created by the system or IDEs
+temp/
+tmp/
+
+# Ignore pdfs
+docs/

@@ -1,0 +1,56 @@
+Tick-Tock: Law of Limitation in Arbitration post the Arif Azim Judgment
+The Arif Azim judgment marks a significant development in the field of arbitration law in India by clarifying the applicability of the Limitation Act to arbitration proceedings.
+Tick-Tock: Law of Limitation in Arbitration post the Arif Azim Judgment
+Rishabh Gandhi
+Published on: 
+14 Aug 2024, 12:51 am
+4 min read
+The law of limitation is a fundamental aspect of legal proceedings, designed to ensure that claims are brought within a reasonable time frame. In India, the Limitation Act, 1963, serves this purpose, applying to both litigation and arbitration. The primary rationale behind limitation laws is to prevent the revival of stale claims, encourage diligent prosecution of claims, and provide certainty and finality in legal affairs.
+
+Section 43 of the Arbitration and Conciliation Act, 1996, explicitly states that the Limitation Act, 1963, applies to arbitrations as it does to proceedings in court. This provision ensures that the same principles governing the timeliness of claims in litigation are also applicable to arbitration, thus maintaining consistency across different dispute resolution mechanisms. Article 137 of the Limitation Act provides a three-year limitation period for applications for which no specific period is prescribed, including applications for the appointment of an arbitrator under Section 11(6) of the Arbitration and Conciliation Act, 1996.
+
+The Arif Azim Judgment: A Landmark Ruling
+The Supreme Court's judgment in Arif Azim Co. Ltd. v. Aptech Ltd. [2024] 3 S.C.R. 73, has provided critical clarifications on the applicability of the Limitation Act to arbitration proceedings. This case revolved around disputes arising from franchise agreements and the subsequent invocation of arbitration due to non-payment of dues. The Supreme Court's judgment focused on two legal questions; a) Whether the Limitation Act, 1963, applies to an application for the appointment of an arbitrator under Section 11(6) of the Arbitration and Conciliation Act, 1996, and b) Whether the petition for arbitration was barred by limitation.
+
+A. Applicability of the Limitation Act
+The Supreme Court affirmed that the Limitation Act, 1963, applies to arbitration proceedings under the Arbitration and Conciliation Act, 1996. Section 43 of the Arbitration and Conciliation Act explicitly states that the Limitation Act applies to arbitrations as it does to court proceedings. The Court cited several precedents to support this view. In SBP & Co. v. Patel Engineering Ltd. [(2005) 8 SCC 618] the Court held that the issue of limitation must be decided at the pre-reference stage to prevent prolonged and expensive arbitration proceedings for claims that are time-barred. In Geo Miller and Company Private Limited v. Chairman, Rajasthan Vidyut Utpadan Nigam Limited [(2020) 14 SCC 643] the Court reaffirmed that the limitation period for filing an application under Section 11(6) is three years from the date when the right to apply accrues.
+
+B. When Does the Right to Apply Accrue?
+The Court emphasized that the limitation period for filing an application for the appointment of an arbitrator commences only after a valid notice invoking arbitration has been issued and the other party has failed or refused to appoint an arbitrator. This position was supported by Bharat Sanchar Nigam Limited v. Nortel Networks India Private Limited [(2021) 5 SCC 738], which held that the limitation for filing an application under Section 11 begins when there is a failure to appoint an arbitrator within 30 days of the notice invoking arbitration.
+
+The Impact of the Arif Azim Judgment
+A. Clarification on Limitation Periods
+
+The Arif Azim judgment provides much-needed clarity on the commencement of the limitation period for arbitration applications. It underscores that the limitation period starts from the date of the respondent's failure to act on the notice invoking arbitration, rather than from the date of the underlying cause of action. This distinction is crucial for practitioners and parties alike, ensuring that the clock starts ticking at the correct moment.
+
+B. Encouragement of Timely Dispute Resolution
+
+By affirming the applicability of the Limitation Act, the judgment promotes timely dispute resolution. Parties are encouraged to initiate arbitration proceedings promptly, preventing the deterioration of evidence and ensuring that disputes are resolved while the facts are still fresh.
+
+C. Protection Against Frivolous Claims
+
+The judgment acts as a safeguard against frivolous claims being dragged into arbitration, thereby saving parties from unnecessary costs and delays. It reinforces the principle that only those claims brought within the prescribed limitation period should be entertained, ensuring that arbitration remains an efficient and effective means of dispute resolution.
+
+Practical Learnings for Arbitration Practitioners
+A. Importance of Timely Notices
+
+One of the key takeaways from the Arif Azim judgment is the critical importance of timely notices in arbitration proceedings. Practitioners must ensure that notices invoking arbitration are issued promptly to avoid any potential arguments regarding the expiry of the limitation period. As emphasized in Utkal Commercial Corporation v. Central Coal Fields Ltd. [(1999) 2 SCC 571], the right to apply for the appointment of an arbitrator accrues when the other party fails to act within the stipulated time.
+
+B. Vigilance in Monitoring Deadlines
+
+Arbitration practitioners must remain vigilant in monitoring deadlines to safeguard their clients' interests. The judgment in Vidya Drolia and Others v. Durga Trading Corporation [(2021) 2 SCC 1] highlights the necessity for courts to prima facie examine and reject non-arbitrable or dead claims, protecting parties from being drawn into time-consuming and costly arbitration processes.
+
+C. Understanding Jurisdiction vs. Admissibility
+
+The distinction between jurisdictional issues and admissibility issues is vital. While jurisdictional issues pertain to the arbitrator's authority to hear a case, admissibility issues relate to the nature of the claim, such as whether it is time-barred. The Arif Azim judgment reiterates that limitation is an admissibility issue, emphasizing that it is the arbitrator's duty to decide whether a claim is within limitation, as supported by NTPC Ltd. v. SPML Infra Ltd. [(2023) 9 SCC 385].
+
+Conclusion
+The Arif Azim judgment marks a significant development in the field of arbitration law in India. By clarifying the applicability of the Limitation Act to arbitration proceedings and establishing clear guidelines for the commencement of the limitation period, the Supreme Court has reinforced the importance of timely dispute resolution. This judgment will undoubtedly serve as a guiding precedent for future arbitration cases, ensuring that the arbitration process remains robust, efficient, and fair.
+
+In conclusion, the Arif Azim judgment underscores the adage "Vigilantibus non dormientibus jura subveniunt." Parties to arbitration agreements must be diligent in invoking arbitration promptly to avoid their claims being barred by limitation. This judgment reinforces the role of arbitration as a swift and effective means of resolving disputes, upholding the integrity and efficacy of the arbitration process in India.
+
+As practitioners, we must stay abreast of these developments and ensure that our clients are well-informed about the critical timelines that govern arbitration proceedings. The ticking clock is a reminder that vigilance and prompt action are paramount in the realm of arbitration.
+
+About the author: Rishabh Gandhi is an Arbitration lawyer and former trial court Judge. Gandhi is also the founder of Rishabh Gandhi and Advocates.
+
+If you would like your Deals, Columns, Press Releases to be published on Bar & Bench, please fill in the form available here.

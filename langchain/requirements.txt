@@ -1,0 +1,6 @@
+langchain
+PyPDF2
+python-dotenv
+requests
+chromadb
+termcolor

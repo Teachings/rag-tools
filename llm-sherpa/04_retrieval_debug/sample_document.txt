@@ -1,0 +1,370 @@
+Skip to content
+Corevist Logo
+Platform
+
+Solutions
+Pricing
+Results
+Resources
+Partners
+Company
+
+Take Product Tour
+Request Demo
+SAP eCommerce
+Your complete guide to B2B, B2C, SAP integration, and more.
+SAP eCommerce is essential in the post-COVID world. Evolving buyer demands, disrupted strategies, and unstable supply chains all demand agility and flexibility.
+
+When it comes to customer experience, buyers want transparency.
+
+If you use an SAP product for your ERP (whether ECC, S/4HANA, or Business One), the question of eCommerce gets more complicated. How are you going to share data between eCommerce and SAP? How will you provide transparent inventory and pricing?
+
+And what’s the best platform for your use case? Should you use SAP’s own Commerce Cloud, or is a third-party solution a better stepping stone while you prepare for Commerce Cloud?
+
+What if you’re on an old SAP solution, like Internet Sales Application, and you need to upgrade so you can migrate to S/4HANA?
+
+Oh, and what about B2B vs. B2C? Are there any special considerations you should take into account?
+
+We’ll cover all that and more.
+
+SCENARIOS
+
+SAP B2B eCommerce
+In a B2B scenario, you have several options for SAP eCommerce. The best choice will depend on two main factors:
+
+Your available IT resources (in-house or outsourced)
+The complexity of your SAP ERP integration requirements
+
+SAP Commerce Cloud is a great option for numerous B2B use cases. It offers powerful functionality, robust integration capabilities, and beautiful user experiences.
+
+However, for some organizations, SAP Commerce Cloud presents a challenge. If you need deep integration to SAP ERP, and you need to launch fast, Commerce Cloud may be too much firepower. In particular, custom SAP ERP integration requirements may hold up the project and prove too complex and difficult to support after GoLive.
+
+So how do you know where you stand?
+
+At a high level, ask yourself these questions:
+
+Do you need ERP-driven features like real-time contract pricing, real-time personalized inventory (ATP), real-time credit status, real-time order posting to SAP without errors, or full order and invoice history from SAP, for all channels (including eCommerce, EDI, phone, fax, and email)?
+Can you staff a full-time team to support SAP eCommerce? Whether you hire in-house resources or outsource this, you’ll need multiple FTEs dedicated to supporting SAP Commerce Cloud—particularly if you need deep ERP integration.
+For organizations in this scenario, Corevist offers an SAP-approved alternative—Corevist Commerce Cloud. It’s cloud-based, already integrated to ECC or S/4HANA, and launches in 30 days. In a nutshell, it’s built to leverage your investment in SAP ERP for eCommerce.
+
+Why is SAP integration so essential?
+
+Because crucial aspects of your eCommerce UX depend on it.
+
+Pricing & availability in SAP eCommerce
+
+Corevist Commerce Cloud allows your customers to check price and availability from the dashboard (see the video above)—but also from within the catalog and shopping cart. Anywhere that customers need pricing and availability, Corevist pulls it from SAP in real time.
+
+Catalog browsing in SAP eCommerce
+
+Error-free order posting in SAP eCommerce
+Once the user gets to the shopping cart, they should get the same information they saw in the catalog. Personalized pricing, inventory availability, quantity rules, everything should be derived from your SAP business rules in real time. This ensures a great cross-channel experience for your customers, as they get the same story in the SAP eCommerce store as they would over the phone with customer service.
+
+
+Self-service order tracking in SAP eCommerce
+Of course, the SAP eCommerce buyer journey doesn’t end with order placement. In a B2B scenario, customers also need to track orders, shipments, and line items, plus they need access to full invoice history and credit status. (Bonus points if you offer them self-service digital payment capabilities, so they can pay off invoices in the eCommerce portal and keep their credit in good standing.)
+
+Here’s a brief overview of the tracking capabilities you should look for:
+
+
+These are just a few examples of of essential functionality that Corevist delivers through real-time SAP integration. If you need a complex feature to support complex business rules, chances are, Corevist Commerce Cloud already delivers it, straight from your SAP system.
+
+Learn more about Corevist’s offerings for SAP B2B eCommerce.
+
+
+The Corevist Platform | Full SAP Integration Included | Corevist, Inc.
+
+Want to become Easier To Do Business With?
+Check out Corevist Commerce Cloud.
+
+Managed B2B portals and eCommerce with prebuilt integration for ECC and S/4HANA.
+
+ TAKE A TOUR
+
+SAP B2C eCommerce
+
+In an SAP ERP scenario, you have many options for B2C eCommerce. With fairly rudimentary ERP integration requirements (compared to B2B, anyway), B2C eCommerce leaves the field wide open.
+
+Of course, if you’re an SAP company, you’ll want to check out SAP Commerce Cloud. It’s a world-class solution that stands with the best of any B2C platform—and, in many instances, actually exceeds them all.
+
+In the latest Gartner Magical Quadrant for Digital Commerce (August 2021), Gartner has high praise for SAP Commerce Cloud:
+
+“SAP is a Leader in this Magic Quadrant… Its SAP Commerce Cloud offering is a fit for enterprise companies with larger amounts of revenue and SKUs, or those with complex use cases.”
+
+Gartner lists a few cautions about SAP Commerce Cloud, including a point about third-party integrations.
+
+“Although SAP offers native integrations to several SAP products and offers a marketplace for third-party applications, most integrations to third-party applications are built and maintained by the application partners. This will result in additional cost and deployment times for companies choosing to use non-SAP digital commerce ecosystem applications.”
+
+It’s worth bearing this in mind if you need complex integration—but that’s not usually the case in B2C, where transactions aren’t typically governed by complex ERP business rules.
+
+Learn more about SAP Commerce Cloud.
+
+SAP ERP VERSIONS
+
+SAP ECC eCommerce
+If you’re on SAP ECC, your eCommerce needs will depend on the complexity of your business rules. It’s best to think of this as a spectrum. At one end, you have a simple order-to-cash scenario in which every customer gets the same pricing and availability (barring discounts, of course). This is typically a simpler situation, either B2C, or a B2C lookalike scenario (i.e. B2B in which every customer looks identical as far as business rules).
+
+
+At the other end of the spectrum, you have “true B2B” scenarios. These are more complex. Different customers may have their own pricing and availability that’s specified in contracts. Some customers might be allowed to buy certain SKUs, while others aren’t. Credit terms will differ among customers, and everyone needs visibility into real-time credit status.
+
+At the B2B end of the spectrum, all that data and logic lives in SAP ECC. That’s why a deep integration to ECC is essential for B2B eCommerce.
+
+Learn more about Corevist’s offerings for SAP ECC and R/3 eCommerce.
+
+The Corevist Platform | Full SAP Integration Included | Corevist, Inc.
+
+Want to become Easier To Do Business With?
+Check out Corevist Commerce Cloud.
+
+Managed B2B portals and eCommerce with prebuilt integration for ECC and S/4HANA.
+
+ TAKE A TOUR
+
+S/4HANA eCommerce
+
+As with ECC (above), the complexity of eCommerce in an S/4HANA scenario will depend on your business rules.
+
+Simply put, if every customer gets the same basic price for every product, the scenario looks more like B2C. You won’t need a deep, real-time integration to S/4HANA.
+
+If every customer gets their own unique contract pricing, product permissions, and credit terms, the scenario looks more like true B2B. It’s complex, and you’ll need a deep, real-time integration to S/4HANA.
+
+Learn more about Corevist’s offerings for S/4HANA eCommerce.
+
+NOTE: If you haven’t migrated to S/4HANA yet, you shouldn’t wait to launch B2B eCommerce until the migration is complete. You’ll miss out on the exploding value of B2B eCommerce. That’s why Corevist is built to follow you from ECC to S/4HANA.
+
+SAP Business One eCommerce
+
+FocusPoint® is the only SAP-certified front-end Customer Engagement Platform for Business One.  With comprehensive, pre-built, cloud-based processes including e-commerce, B2B Customer Self-Service Portals, service & rental management, and industry specific add-ons, it’s the most-complete solution on the market… intuitively exposing your SAP processes to customers and making it easier for everyone to collaborate while doing business.
+
+FocusPoint’s SAP Business One exclusivity means platform mastery, which minimizes costs, delays, time to market and provides subject matter expert support on your e-commerce journey.
+
+
+To learn more, visit the Focus Point website.
+
+SAP INTEGRATION
+
+Future-proof integration architecture
+How will your eCommerce solution share data with SAP ERP?
+
+This question is essential to any SAP eCommerce project. Depending on the complexity of your business rules, the wrong architecture may saddle you with technical debt and systems that you can’t support.
+
+
+Ultimately, that can create a bad user experience. For example, if your architecture depends on middleware  or an iPaaS solution (integration platform as a service) to duplicate and synchronize data between SAP and eCommerce, and those 3 systems stop playing nicely together, you may end up with an eCommerce store that can’t show pricing and availability anymore. That’s a serious user experience problem—one with direct impact to the business.
+
+How do you get around this?
+
+Look for an eCommerce solution that’s built to read and write SAP data in real time, no middleware required.
+
+Here’s the prebuilt, integrated architecture that we offer in Corevist Commerce Cloud:
+
+
+As you can see, there are only two systems total—your SAP ERP system, and Corevist Commerce Cloud, which reads and writes SAP data directly, in real time. This ensures that you don’t take on technical debt by launching a middleware solution to integrate SAP and eCommerce. Middleware-based architecture requires numerous full-time employees to support and debug. It’s much simpler to choose a platform that includes SAP integration out of the box. Bonus points if it’s a managed solution. (Hint: That’s what we offer with Corevist Commerce Cloud.)
+
+Learn more here: Corevist’s SaaS Architecture.
+
+Don’t Sweat Your Master Data
+f you’re evaluating an eCommerce platform that’s tightly integrated with SAP, it can be hard to swallow the idea that customers will interact directly with your master data. You didn’t configure SAP for customers—you configured it to support internal processes and users. Is it really a good idea to integrate so tightly?
+
+
+First of all, a deep integration is required if you offer customers personalized contract pricing and ATP (available to promise). It’s also required if you want to give customers real-time visibility into credit status (so their order doesn’t go on credit block)—and these examples are just the beginning. In a true B2B scenario, with B2B customers buying from manufacturers, you need that deep integration to handle the complexity of your transactions and prevent errors and manual callbacks.
+
+The key is to engage a partner who can help align your master data with best practices. It’s okay if your master data isn’t perfect, or it’s taken on layers of configuration changes over the years. The right partner can advise you on what cleansing you need to do for integrated eCommerce—and what you can leave for phase 2, 3, and so on.
+
+Learn more here: Don’t Sweat Your Master Data.
+
+Integration Protocol: RFC Or HTTPS?
+How is eCommerce going to talk to SAP ERP?
+
+This is a crucial question. Your organization may have policies in place—for example, using only RFCs or only HTTPS to talk to SAP.
+
+And of course, you’ll want to establish rock-solid security.
+
+Corevist recommends one of several methods for connecting with SAP.
+
+
+
+Get all the details here: SAP eCommerce Integration: RFC Or HTTPS?
+
+SAP Integration: Prebuilt Or Custom?
+
+It may be tempting to take an a la carte approach to SAP integration. Purchase this integration point, then that one, then another, from a vendor who sells them piecemeal. (Note: These a la carte integrations always place a third software system between eCommerce and SAP. That third system, typically a middleware or iPaaS [integration platform as a service] solution, will introduce technical debt.)
+
+If you’re doing B2C eCommerce, or you have a very simple B2B use case, a la carte integration points make a lot of sense. Maybe you just need to bring orders over from eCommerce to SAP. Or you just need to sync product availability once a day.
+
+However, if you have complex integration requirements, you may encounter problems with a custom or a la carte approach to SAP integration. If you need any of this functionality, a custom approach may not support your customers’ needs:
+
+Real-time, personalized ATP (available to promise) straight from SAP ERP
+Real-time, personalized pricing straight from SAP
+Real-time credit status
+Real-time error messaging from SAP for orders that don’t conform to your business rules
+Only 100% error-free orders posted from eCommerce to SAP
+Full order history for orders from all channels (EDI, phone, fax, email), not just eCommerce
+Real-time status of invoices and open items
+Self-service invoice payments with real-time account clearing in SAP
+This list only scratches the surface of the integration points that a true B2B scenario requires. It’s far more efficient to choose a prebuilt solution that provides these integration points automatically, rather than trying to assemble a custom package.
+
+Hint: That’s the approach we take with Corevist Commerce Cloud. For more information, check out Corevist’s 49 Prebuilt, Configurable SAP Integration Points.
+
+UPGRADES AND MIGRATIONS
+
+S/4HANA Migration and B2B eCommerce
+These days, S/4HANA migration is on everyone’s mind. With ECC being sunsetted in 2027 (with extension options through 2030), companies are scrambling to define the future of their ERP practice.
+
+It’s a challenging time for IT, as digital expectations are putting pressure on older organizations to launch B2B eCommerce.
+
+
+For companies that are planning to migrate, we have good news. Corevist Commerce Cloud follows you easily from ECC to S/4HANA with minimal heavy lifting on our part.
+
+This means you can launch B2B eCommerce now, delivering the competitive power that the business needs, without having to redo it all after your migration.
+
+Read more here: The Ease Of Maintaining Corevist As You Migrate To S/4HANA.
+
+Replacing SAP WCEM
+In its heyday, SAP WCEM was a leading solution for B2B portals and eCommerce. But SAP sunsetted the solution in 2013 when they acquired hybris (now rebranded as SAP Commerce).
+
+For organizations that are still using WCEM, it’s essential to chart a future course—particularly as S/4HANA migrations loom on the horizon.
+
+Luckily, the market does offer solutions that meet (and exceed) the capabilities of WCEM. There are 3 keys to a successful re-platform off of WCEM:
+
+Determine the depth of SAP integration you need
+Don’t create more work for IT
+Define your timeline for re-platforming
+Read more here: 3 Keys To Replacing WCEM Without Losing Functionality.
+
+Replacing SAP ISA
+SAP ISA (Internet Sales Application) is WCEM’s older brother. Like WCEM, it’s been sunsetted. It was a great solution in its day, but due to limitations in UX (user experience), it can’t meet the needs of today’s digitally-savvy B2B customers.
+
+Still, it’s tough to let go of ISA because it provides so many great B2B features through SAP integration:
+
+Real-time, customer-specific pricing from SAP ERP
+Real-time inventory from SAP ERP
+Real-time order posting to SAP ERP
+Architecture that keeps SAP ERP as the “single source of truth”
+
+If you’re going to replace ISA, you’ll want to do it right. That means finding a solution that offers the same powerful SAP integration, but works on any device, is future-proofed, and comes with an expert team supporting and maintaining it.
+
+Read more: Replacing SAP ISA Without Losing Functionality.
+
+BEST PRACTICES IN SAP ECOMMERCE
+
+SSO (Single Sign On) Scenarios
+
+Single sign on allows your customers or internal users to log on once to access multiple systems (including your SAP eCommerce portal). It’s a great way to create a seamless customer experience in SAP eCommerce, particularly if your customers have a complex purchasing cycle that involves logging in to multiple systems. It’s great for internal users too, whether admins, sales reps, or customer service reps.
+
+Our clients typically request SSO integrations in scenarios like these:
+
+Allow internal users to authenticate to Corevist via your corporate active directory
+Allow your customers to authenticate to Corevist using credentials from your corporate website
+Allow your customers to authenticate to Corevist via their own corporate active directory
+Allow your customers to authenticate to Corevist using their credentials from Salesforce
+Allow your customers to authenticate to Corevist using their credentials from G Suite
+
+SSO is a must if you have multiple logins, but it doesn’t have to be hard. Read more here: SSO In SAP eCommerce Scenarios.
+
+Handling Credit and Availability
+As you prepare for eCommerce that’s integrated to SAP, you get the opportunity to reevaluate how you handle credit and availability issues—both in terms of customer experience, and internal efficiency.
+
+Typically, companies find that their default handling of credit and availability aren’t ideal for a self-service use case. For example, the cart portion of Corevist Commerce Cloud provides real-time availability information using sales order simulation against your SAP data. If SAP is set up to offer no availability to customers with bad credit, the eCommerce user will see no availability—when in fact, they just need to pay down their open balance.
+
+
+Luckily, you can address this in SAP. Read this post for options: Handling Credit And Availability In SAP eCommerce.
+
+Supporting Multiple SAP Sold-Tos with a Single Payer
+
+In the world of B2B manufacturing, SAP eCommerce comes with unusual challenges. For example, a manufacturer may have a customer with multiple sold-tos in SAP that all roll up to a single payer. This creates challenges when it comes to self-service accounts payable functionality within SAP eCommerce. What if those users need to see only the open items associated with their sold-to, rather than all open items associated with the payer?
+
+Many SAP eCommerce architectures struggle to support this. Here’s how we handle it in Corevist Commerce Cloud: Supporting Multiple Sold-Tos With A Single Payer In SAP eCommerce.
+
+
+Supporting Dynamic Reports from SAP ERP
+In some SAP eCommerce scenarios, the purchasing process is quite complex. Customers need access to dynamic reports from within SAP ERP.
+
+Traditionally, the only way customers can get this info is to call or email customer service. A rep has to handle the inquiry manually, running a report in SAP and relaying the information to the customer.
+
+
+In the age of self-service, this is a broken process. That’s why Corevist Commerce Cloud supports dynamic web reports from SAP ERP. This functionality empowers customers to get their own answers to questions like:
+
+How much stock the vendor has on hand
+How much the customer has already requested
+How much has been delivered
+How much the vendor still needs to produce
+Any anticipated shrinkage
+Read more: Dynamic Web Reports From SAP ERP In Corevist Commerce Cloud.
+
+New User Registration in SAP eCommerce
+In an eCommerce scenario with deep SAP integration, new user registration presents unique challenges. At the very least, you need a process to account for new eCommerce customers by creating them in SAP.
+
+However, in B2B scenarios, the requirements are often more complex than that. New customers may need to go through several vetting steps:
+
+Duplicate account check
+Ideal customer profile fit
+Creditworthiness
+Legality (in regulated industries)
+
+Read more here: 3 Processes For New User Registration In SAP B2B eCommerce.
+
+Wrap Up
+When it comes to SAP eCommerce, the key is to know your use case inside and out. Once you understand your customers and your internal processes, you can make intelligent decisions for the business—including the best way to handle your SAP integration requirements.
+
+If you’re working with a B2B scenario, you need deep SAP integration, and you have limited IT resources to help, Corevist Commerce Cloud may be a fit.
+
+Thinking about your journey?
+Let’s put a stake in the ground.
+Schedule a consultation with a specialist, and let’s define your path forward.
+
+
+COMPANY
+Our Story
+Careers
+Team
+Partners
+Contact Us
+Press Room
+Service SLA
+PRODUCT
+Corevist Commerce Cloud
+Features & Pricing
+Our Architecture
+RESOURCES
+Client Stories
+Use Cases
+Guides
+Webinars
+Blog
+ROI Calculator
+Take a Product Tour
+Schedule a Call
+Sales
+919.424.2120
+
+B2B portals and eCommerce for companies running SAP ERP.
+
+
+© 2023 Corevist Inc.
+Privacy Policy
+Cookie Policy
+Terms Of Use
+LinkedInTwitterYouTubeFacebook
+Table of contents:
+SCENARIOS
+• SAP B2B eCommerce
+• SAP B2C eCommerce
+ERP VERSIONS
+• SAP ECC eCommerce
+• S/4HANA eCommerce
+• SAP B1 eCommerce
+SAP INTEGRATION
+• Future-proof architecture
+• Handling Master Data
+• Protocol: RFC or HTTPS?
+• Prebuilt Or Custom?UPGRADES AND MIGRATIONS
+• S/4HANA Migration And B2B eCommerce
+• Replacing SAP WCEM
+• Replacing SAP ISA
+BEST PRACTICES
+• SSO (Single Sign On)
+• Credit And Availability
+• Sold-Tos & Payers
+• Dynamic SAP Reports
+• New User Registration
+Go to Top

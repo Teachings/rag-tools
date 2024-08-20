@@ -1,0 +1,4 @@
+This is a simple test document.
+It contains multiple sentences and paragraphs to simulate a real document.
+Each paragraph should be treated as a separate chunk.
+The goal is to verify that chunking works correctly.
