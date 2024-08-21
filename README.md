@@ -10,6 +10,10 @@ This repository contains a Python script that processes PDF documents, chunks th
 - **Document Indexing**: Indexes the generated embeddings in ChromaDB, a scalable vector search engine.
 - **Query and Retrieval**: Performs similarity search on the indexed embeddings and retrieves relevant document chunks based on a query.
 
+![image](https://github.com/user-attachments/assets/587fea21-3435-4dd1-9d4b-5f1e5007a051)
+
+
+
 ## Setup
 
 ### Prerequisites
@@ -109,7 +113,8 @@ These commands will show the running container's status and details, including t
 
 3. Run the script:
     ```bash
-    python script_name.py
+    cd langchain
+    python ra_pipeline.py
     ```
 
 4. The script will:
