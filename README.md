@@ -28,7 +28,7 @@ This repository contains a Python script that processes PDF documents, chunks th
 
 2. Create and activate the Conda environment:
     ```bash
-    conda create --name rag-tools python=3.8
+    conda create --name rag-tools python=3.12
     conda activate rag-tools
     ```
 
