@@ -1,0 +1,5 @@
+termcolor
+requests
+beautifulsoup4
+crawlee[playwright]
+markdownify

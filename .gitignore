@@ -49,3 +49,5 @@ tmp/
 
 # Ignore pdfs
 docs/
+
+web-scraper/storage/*
