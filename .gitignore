@@ -51,3 +51,4 @@ tmp/
 docs/
 
 web-scraper/storage/*
+web-searcher/storage/*
